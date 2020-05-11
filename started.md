@@ -1,4 +1,4 @@
-# WAR 시작
+# WAR 워크로드 정의
 
 ## 워크로드 정의
 
@@ -6,13 +6,13 @@
 
 AWS Management 콘솔에 로그인한 다음 [https://console.aws.amazon.com/wellarchitected/](https://console.aws.amazon.com/wellarchitected/)에서 AWS Well-Architected Tool 콘솔을 엽니다.
 
-### **워크로드 정의 선**
+### **워크로드 정의 선택** 
 
 **Define a workload\(워크로드 정의\)** 섹션에서 **Define workload\(워크로드 정의\)**를 선택
 
 ![](.gitbook/assets/image.png)
 
-### 워크로드 정
+### 워크로드 정의 
 
 * **이름** - 워크로드 고유 식별자를 입력합니다. 이름은 3~100자 이내로 작성해야 합니다. 문자 3개 이상이 공백이어서는 안 됩니다. 워크로드 이름은 고유해야 합니다. 고유성 여부를 확인할 때 공백과 대문자는 무시합니다.
 * **설명** - 워크로드에 대한 설명을 입력합니다. 설명은 3~250자 이내로 작성해야 합니다.
@@ -26,5 +26,7 @@ AWS Management 콘솔에 로그인한 다음 [https://console.aws.amazon.com/wel
 
 ![](.gitbook/assets/image%20%282%29.png)
 
+* Well Architected Framework를 선택하고, 워크로드 정의를 선택합니다.
 
+![](.gitbook/assets/image%20%284%29.png)
 
