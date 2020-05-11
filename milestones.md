@@ -10,7 +10,7 @@
 
 생성된 최초의 워크로드를 토대로 마일스톤을 생성하고 저장합니다.
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2814%29.png)
 
 ### 마일스톤 보기 
 
@@ -19,7 +19,7 @@
 * 워크로드 세부 정보 페이지에서 **Milestones\(마일스톤\)**와 확인할 마일스톤을 차례대로 선택합니다.
 * **대시보드** 페이지에서 워크로드를 선택한 후 **Milestones\(마일스톤\)** 섹션에서 확인할 마일스톤을 선택합니다.
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/image%20%282%29.png)
 
 
 
@@ -36,5 +36,5 @@
 
 PDF 파일이 생성되어 다운로드하거나 직접 볼 수 있습니다.
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2820%29.png)
 
